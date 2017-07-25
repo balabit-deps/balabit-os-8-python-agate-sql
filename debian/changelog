@@ -1,0 +1,21 @@
+python-agate-sql (0.5.2-2) unstable; urgency=medium
+
+  * Bump standards version to 4.0.0, no changes required
+  * Build the docs using the upstream Makefile
+  * Mark doc package multiarch foreign
+  * Release to unstable
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Tue, 25 Jul 2017 20:38:48 +0100
+
+python-agate-sql (0.5.2-1) experimental; urgency=medium
+
+  * New upstream version 0.5.2
+  * Refresh the patch queue
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Tue, 02 May 2017 08:46:38 +0100
+
+python-agate-sql (0.5.1-1) experimental; urgency=low
+
+  * Initial release. (Closes: #850451)
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Wed, 22 Mar 2017 11:15:15 +0000
